@@ -1,0 +1,80 @@
+body {
+  background-color: #282828;
+
+}
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
+.nav {
+  margin-top: 1cm;
+}
+
+.container a:hover{
+  background-color: #000000;
+}
+
+.nav a {
+  color: #A2A2A2;
+  font-size: 20px;
+  font-weight: bold;
+  padding: 18px 18px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+.nav .container {
+position: relative;
+  bottom:15px;
+}
+
+.stream .container {
+  position: relative;
+  top:15px;
+}
+.media .container .deernadia{
+       text-align: center;
+            display: table-cell;
+            vertical-align: middle;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+.neighborhood-guides{
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+.neighborhood-guides h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+.neighborhood-guides p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
